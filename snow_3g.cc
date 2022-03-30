@@ -1,6 +1,6 @@
 #include "converters.cc"
 
-
+// Metodo mod 8
 
 byte mod8(byte op, byte constant, int position){
   int bit_significativo;
