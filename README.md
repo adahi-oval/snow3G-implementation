@@ -1,1 +1,1 @@
-# P5 - SNOW 3G
+# SNOW 3G stream cypher, used in 4G/LTE, implementation in C++
